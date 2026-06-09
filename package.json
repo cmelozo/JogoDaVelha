@@ -1,0 +1,16 @@
+{
+  "name": "jogo-da-velha",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
